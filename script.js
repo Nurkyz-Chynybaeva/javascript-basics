@@ -35,10 +35,10 @@ console.log(city + " is the capital of " + kg);
 
 console.log(subject + " is measused in " + unit);
 
-console/log("My favorite book is" + book + " by " + author);
+console.log("My favorite book is" + book + " by " + author);
 
 
-console/log("My favorite book is" + secondbook + " by " + secondauthor);
+console.log("My favorite book is" + secondbook + " by " + secondauthor);
 
 
 

@@ -101,6 +101,7 @@ console.log(`your ideal weight for your height is (for men) ${idealWeightForMan}
 
 
 let foodWeight = +prompt(`food weight (in grams):`);
+let numberOfCalories = +prompt(`number of calories per 100 gr`);
 
 
 

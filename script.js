@@ -28,7 +28,7 @@ let unit= "meters";
 
 let a = +prompt('What is A?')
 let b = +prompt('What is B?')
-let sum =""
+let sum ="a + b"
 
 
 let movie= "Terminator"

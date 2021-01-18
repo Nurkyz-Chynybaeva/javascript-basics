@@ -1,4 +1,4 @@
-let first = "Shrek";
+/*let first = "Shrek";
 let second = first;
 let third = second;
 let fourth = third;
@@ -71,6 +71,29 @@ console.log(`The sum of two numbers is egual to ${sum}`);
 
 console.log(`C multiplaied by D is egual to ???`)
 
+ 
 
+
+
+let mass = +prompt("What is your mass(in kilograms)?")
+let height = +prompt("What is your height (in meters)?")
+let bodyMassIndex = mass / (height ^ 2)
+
+console.log(` Your body mass index is ${bodyMassIndex} `)
+*/
+
+
+let heightWoman = +prompt(`your height (for women):`);
+let idealWeightForWoman = ((heightWoman -110) * 1.15);
+
+console.log(`your ideal weight for your height is (for women) ${idealWeightForWoman}kg`);
+
+
+
+
+
+let heightMan = +prompt(`your height (for men) :`);
+let idealWeightForMan = ((heightMan -100) * 1.15);
+console.log(`your ideal weight for your height is (for men) ${idealWeightForMan}kg`);
 
 

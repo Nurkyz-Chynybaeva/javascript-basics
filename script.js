@@ -97,3 +97,10 @@ let idealWeightForMan = ((heightMan -100) * 1.15);
 console.log(`your ideal weight for your height is (for men) ${idealWeightForMan}kg`);
 
 
+
+
+
+let foodWeight = +prompt(`food weight (in grams):`);
+
+
+

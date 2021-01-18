@@ -94,6 +94,7 @@ console.log(`your ideal weight for your height is (for women) ${idealWeightForWo
 
 let heightMan = +prompt(`your height (for men) :`);
 let idealWeightForMan = ((heightMan -100) * 1.15);
+
 console.log(`your ideal weight for your height is (for men) ${idealWeightForMan}kg`);
 
 
@@ -104,4 +105,5 @@ let foodWeight = +prompt(`food weight (in grams):`);
 let numberOfCalories = +prompt(`number of calories per 100 gr`);
 let total = (`(foodWeight * numberOfCalories) /100`);
 
+console.log(`calorie content of your food is: ${total}cal`);
 
